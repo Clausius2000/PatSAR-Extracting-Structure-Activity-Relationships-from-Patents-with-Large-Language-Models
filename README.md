@@ -1,0 +1,1 @@
+# PatSAR-Extracting-Structure-Activity-Relationships-from-Patents-with-Large-Language-Models
