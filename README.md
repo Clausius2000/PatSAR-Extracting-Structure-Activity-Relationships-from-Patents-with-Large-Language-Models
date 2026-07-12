@@ -31,5 +31,6 @@ PatSAR/
 ├── workflow_instructions/
 │   └── workflow_instructions_chatgpt_web.md
 └── README.md
+```
 
 The `Code/` folder contains the BigQuery SQL script for patent metadata extraction, Python scripts for reproducing Figure 2 and Figure 3, and the minimal Python dependency file. The `prompts/`, `randomization/`, and `workflow_instructions/` folders provide the prompt-development record, GenTest-200 randomization materials, and practical ChatGPT workflow instructions, respectively.
