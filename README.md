@@ -4,6 +4,15 @@ This repository provides prompt, workflow, and randomization materials associate
 
 PatSAR is a prompt-based workflow for extracting structure–activity relationship (SAR) information from patent PDF documents using the ChatGPT web or desktop interface.
 
+## Data availability
+
+The internally constructed PatSAR datasets are deposited in Zenodo:
+
+**DOI:** 10.5281/zenodo.20482853  
+**Persistent URL:** https://zenodo.org/records/20482853
+
+All dataset files are deposited in Zenodo. This repository provides the prompt records, workflow instructions, randomization materials, metadata-extraction SQL, and figure-reproduction code associated with the manuscript.
+
 ## Repository contents
 
 ```text
